@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import "snotify/snotify-material.scss";
+
+@import "vue-select/src/scss/vue-select.scss";
+
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.min.css";
+@import "~datatables.net-rowreorder-bs4/css/rowReorder.bootstrap4.min.css";
+
+//App customizations
+@import "custom";
+
